@@ -1,0 +1,1 @@
+MONGODB_URL_KEY ="mongodb+srv://Sanyukta:atkuynas@cluster0.ebjqle8.mongodb.net/?retryWrites=true&w=majority"
